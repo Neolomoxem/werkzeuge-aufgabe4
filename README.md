@@ -9,6 +9,6 @@ Gründe für dieses Versagen?
 3. Die Zahl 17
 
 ### Was mir noch zu sagen bleibt
--git 
--ist auch nur
--powerpoint
+- git 
+- ist auch nur
+- powerpoint
